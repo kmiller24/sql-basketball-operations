@@ -10,7 +10,7 @@ I took this from the initial raw data all the way to a polished visualization, a
 
 ### 🚨 The Business Problem
 
-The St. Louis Archers needed a unified way to evaluate their franchise health. The raw data was scattered across ticket sales, merchandise transactions, staff evaluations, and on court player stats. Ownership needed a single pane of glass to see if the team was overpaying underperforming players, which staff members were hidden gems, and exactly what drove our stadium revenue.
+The St. Louis Archers (fictional basketball team) needed a unified way to evaluate their franchise health. The raw data was scattered across ticket sales, merchandise transactions, staff evaluations, and on court player stats. Ownership needed a single pane of glass to see if the team was overpaying underperforming players, which staff members were hidden gems, and exactly what drove our stadium revenue.
 
 ### 🏗️ The Data Architecture
 
