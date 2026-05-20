@@ -26,9 +26,11 @@ This project is using a Medallion pipeline to ensure the data was accurate, scal
 
 You will find my complete Exploratory Data Analysis and final reporting logic inside the sql folder. I organized the scripts chronologically so you can follow my thought process.
 
--   **Files 01 through 05:** Data exploration, auditing, and part to whole analysis. This proves the data was sound before any math was applied.
-
--   **Files 06 through 10:** The final business reports engineered specifically for Tableau. This includes the logic for grouping players into financial tiers and calculating our daily revenue baseline.
+-   **data_warehouse/**: Contains the database initialization script and the DDL/DML SQL scripts used to build the Bronze, Silver, and Gold architecture layers.
+-   **dataset/**: Houses the original, uncleaned CSV files (Bronze) and the final exported datasets (Gold) used to feed the Tableau dashboards.
+-   **diagrams/**: Contains the Entity-Relationship Diagrams mapping the keys and connections within the Silver and Gold data layers.
+-   **eda_reports/**: Holds the final SQL reporting scripts that calculate the custom business thresholds for player, staff, and revenue performance.
+-   **test_scripts/**: Contains the initial exploratory data analysis (EDA) and testing scripts used to audit the data during the development phase.
 
 ### The Visual Solution
 
