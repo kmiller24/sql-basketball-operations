@@ -1,0 +1,16 @@
+﻿player_id,first_name,last_name,position,archetype,team_name,salary_millions,avg_minutes,avg_points,avg_assists,avg_rebounds,avg_game_min_diff,avg_pts_diff,avg_ast_diff,avg_reb_diff,financial_tier,performance_tier,roster_actions
+ply_1,Jordan,Marcus,PG,Sharpshooter,St. Louis Archers,9,36,21.58,6.88,9.16,19.73,15.57,5.34,6.36,Overpaid,Elite,Core Piece
+ply_2,Elias,Thorne,SG,Glass Defender,St. Louis Archers,4,34,21.04,6.72,8.1,17.73,15.03,5.18,5.3,Bargain,Elite,Core Piece
+ply_3,Xavier,Reed,C,Lockdown Defender,St. Louis Archers,13.2,30,8.88,1.52,3.88,13.73,2.87,-0.02,1.08,Market Value,Starter,Monitor Perfomance
+ply_4,Jace,Sterling,PG,Shot Creator,St. Louis Archers,7.7,26,7.02,1.46,2.88,9.73,1.01,-0.08,0.08,Market Value,Starter,Monitor Perfomance
+ply_5,Malachi,Webb,C,Glass Defender,St. Louis Archers,6.8,24,6.88,1.46,2.92,7.73,0.87,-0.08,0.12,Bargain,Starter,Good Fit
+ply_6,Silas,Vance,C,Slasher,St. Louis Archers,14,8.74,2.4,0.54,1.52,-7.53,-3.61,-1,-1.28,Overpaid,Bench,Immediate Trade
+ply_7,Donovan,Hayes,SF,Playmaker,St. Louis Archers,1.2,10.54,2.74,0.36,1.7,-5.73,-3.27,-1.18,-1.1,Bargain,Bench,Monitor Perfomance
+ply_8,Quentin,Rivers,SG,Slasher,St. Louis Archers,10.9,10.08,2.82,0.66,1.66,-6.19,-3.19,-0.88,-1.14,Market Value,Bench,Monitor Perfomance
+ply_9,Cassian,Brooks,SG,Lockdown Defender,St. Louis Archers,23.1,7.74,1.82,0.44,1.34,-8.53,-4.19,-1.1,-1.46,Overpaid,Bench,Immediate Trade
+ply_10,Luka,Bennett,PG,Playmaker,St. Louis Archers,3.8,9.08,2.56,0.36,1.34,-7.19,-3.45,-1.18,-1.46,Bargain,Bench,Monitor Perfomance
+ply_11,Zion,Miller,SF,Sharpshooter,St. Louis Archers,24.4,11.24,2.8,0.54,1.52,-5.03,-3.21,-1,-1.28,Overpaid,Bench,Immediate Trade
+ply_12,Kael,Grayson,PF,Playmaker,St. Louis Archers,29.2,9.38,2.76,0.6,1.56,-6.89,-3.25,-0.94,-1.24,Overpaid,Bench,Immediate Trade
+ply_13,Julian,Pierce,PF,Glass Defender,St. Louis Archers,9.5,9.22,2.08,0.6,1.6,-7.05,-3.93,-0.94,-1.2,Bargain,Bench,Monitor Perfomance
+ply_14,Victor,Stone,C,Shot Creator,St. Louis Archers,11.5,8.94,2.34,0.52,1.38,-7.33,-3.67,-1.02,-1.42,Market Value,Bench,Monitor Perfomance
+ply_15,Adrian,Knight,SG,Lockdown Defender,St. Louis Archers,2.3,9.04,2.5,0.44,1.5,-7.23,-3.51,-1.1,-1.3,Bargain,Bench,Monitor Perfomance
