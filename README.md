@@ -4,9 +4,9 @@ I took this from the initial raw data all the way to a polished visualization, a
 
 ### Project Links
 
--   **Interactive Dashboard:** [Insert Link to Tableau Public Dashboard Here]
+-   **Interactive Dashboard:** [https://public.tableau.com/views/BasketBallOperations/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
--   **Project Documentation:** [Insert Link to Notion Execution Plan Here]
+-   **Project Documentation:** [https://www.notion.so/Basketball-Operations-Revenue-Turnaround-32aa95054b5e8036a109f5ae8efe00df]
 
 ### The Business Problem
 
