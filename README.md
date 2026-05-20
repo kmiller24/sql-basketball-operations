@@ -36,4 +36,4 @@ For the front end, I designed an several dashboards for Players, Revenue, HR, an
 
 ### Conclusion
 
-Building this relational database project allowed me to learn a lot of new things and bridge the gap between backend data manipulation and frontend storytelling. Feel free to explore the SQL queries in this repository or click through the interactive Tableau dashboard linked above!
+Building this relational database project allowed me to learn a lot of new things and bridge the gap between backend data manipulation and frontend storytelling. Feel free to explore the SQL queries in this repository or click through the interactive Tableau dashboard and Notion project management linked above!
