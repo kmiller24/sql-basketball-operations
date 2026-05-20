@@ -1,0 +1,16 @@
+player_id,player_name,position,team_name,minutes_avg,salary_millions
+1,Player_1,PG,Archers,10.7,9
+2,Player_2,SG,Archers,13.6,4
+3,Player_3,C,Archers,12.3,13.2
+4,Player_4,PG,Archers,12.4,7.7
+5,Player_5,C,Archers,10.7,6.8
+6,Player_6,C,Archers,20.9,14
+7,Player_7,SF,Archers,31,1.2
+8,Player_8,SG,Archers,28.2,10.9
+9,Player_9,SG,Archers,15.6,23.1
+10,Player_10,PG,Archers,12.4,3.8
+11,Player_11,SF,Archers,25.7,24.4
+12,Player_12,PF,Archers,23.9,29.2
+13,Player_13,PF,Archers,12,9.5
+14,Player_14,C,Archers,33,11.5
+15,Player_15,SG,Archers,28.3,2.3
